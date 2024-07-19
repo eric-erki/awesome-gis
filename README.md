@@ -132,6 +132,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
 - [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
+- [arcgis-python-api](https://github.com/Esri/arcgis-python-api) - Python library for working with maps and geospatial data, powered by web GIS.
 
 
 ## Spatial Database
@@ -195,6 +196,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
     - [Free GIS Data](http://freegisdata.rtwilson.com/)
     - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
+    - [ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/en/home/) - foremost collection of geographic information from around the globe
 
 - **Data Site**
     - [199it](http://hao.199it.com/)
